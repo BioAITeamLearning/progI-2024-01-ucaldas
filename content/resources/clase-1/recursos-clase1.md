@@ -43,3 +43,10 @@ Accede a ejemplos de PSeInt
 
 [Enlace a la carpeta](https://github.com/BioAITeamLearning/progI-2024-01-ucaldas/tree/9cc932db5444d152eeade70ec36020924da32873/content/resources/clase-1/Ejemplos-PSeInt)
 :::
+
+:::{card} 🔵 Ejemplos PSeInt
+Accede a ejemplos de PSeInt
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SwotuYiD4LA?si=fRttc1v_P_Dh_KxL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+:::
