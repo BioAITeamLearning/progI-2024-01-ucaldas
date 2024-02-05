@@ -1,0 +1,13 @@
+format: jb-book
+root: intro
+parts:
+- caption: Introducción al Curso
+  chapters:
+  - file: content/presentacion
+
+- caption: Unidades
+  chapters:
+  - file: content/Unidad1
+    sections:
+    - file: content/resources/clase-1/recursos-clase1
+    - file: content/talleres/taller1
