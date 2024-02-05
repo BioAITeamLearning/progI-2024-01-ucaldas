@@ -41,5 +41,5 @@ Descarga el software PSeInt donde puedes crear pseudocodigo y diagramas de flujo
 :::{card} 🔵 Ejemplos PSeInt
 Accede a ejemplos de PSeInt
 
-[Enlace a la carpeta](https://github.com/BioAITeamLearning/progI-2024-01-ucaldas/tree/xxxx/content/resources/clase-1/Ejemplos-PSeInt)
+[Enlace a la carpeta](https://github.com/BioAITeamLearning/progI-2024-01-ucaldas/tree/9cc932db5444d152eeade70ec36020924da32873/content/resources/clase-1/Ejemplos-PSeInt)
 :::

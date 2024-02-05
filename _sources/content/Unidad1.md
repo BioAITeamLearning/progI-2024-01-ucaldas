@@ -86,4 +86,4 @@ Linea de tiempo con los principales acontecimientos que marcaron el mundo de la 
 :::{warning} La presentación completa es temporal
 :::
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRwo5QOQs0qfvHzgICu-NOzsiroo1au5dtqlBQC6IuYfER_j5GQkXgbxXxhV1aNlA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="790" height="490" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQObU56sC2CoAELItwjbpp384wMk9aOPI4HpJkQb7djxXSPLfBPpCy32XSpfnap1w/pub?start=false&loop=false&delayms=3000" frameborder="0" width="790" height="490" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
