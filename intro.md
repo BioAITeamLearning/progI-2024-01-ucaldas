@@ -65,9 +65,9 @@ Facultad de ingeniería, Ingeniería de Sistemas
 
 ---
 
-## Objetivos del curso
+## Objetivo del curso
 
-Proporcionar los conceptos, fundamnetos y conocimientos necesarios para iniciar en el munndo de la programación; se proporcionará al estudiante material de apoyo y los fundamentos esenciales para que sea capaz de resolver problemas lógicos de programación y desarrolle habilidades que serán de utilidad en su carrera.
+Brindar al estudiante los conceptos, fundamentos y habilidades necesarios para incursionar en el apasionante mundo de la programación con Java. A través de material de apoyo cuidadosamente seleccionado y la experimentación práctica, el estudiante adquirirá las bases esenciales para resolver problemas lógicos de programación y desarrollar habilidades que le serán de gran utilidad en su futura carrera profesional.
 
 ```{admonition} Nota
 :class: tip
