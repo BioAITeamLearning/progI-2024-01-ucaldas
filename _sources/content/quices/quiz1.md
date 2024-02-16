@@ -21,7 +21,7 @@ Evaluemos lo aprendido en la Clase 1 y Clase 2
 :::{card}
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://docs.google.com/forms/
+:link: https://docs.google.com/forms/d/e/1FAIpQLScR_QwNDAzMJ1_ZTjHQWXvVSzWYmW_3Wphawlli-oXaPFd_-w/viewform?usp=sharing
 **💬 Quiz 1**
 ^^^
 ```{image} https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Google_Forms_logo_%282014-2020%29.svg/1489px-Google_Forms_logo_%282014-2020%29.svg.png
@@ -30,5 +30,5 @@ Evaluemos lo aprendido en la Clase 1 y Clase 2
 
 Quiz 1: Clase 1 y Clase 2
 +++
-[Click para ir al Quiz](https://docs.google.com/forms/) {fas}`arrow-right`
+[Click para ir al Quiz](https://docs.google.com/forms/d/e/1FAIpQLScR_QwNDAzMJ1_ZTjHQWXvVSzWYmW_3Wphawlli-oXaPFd_-w/viewform?usp=sharing) {fas}`arrow-right`
 :::
