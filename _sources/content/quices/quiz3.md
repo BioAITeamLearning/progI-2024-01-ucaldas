@@ -21,7 +21,7 @@ Evaluemos lo aprendido en la Clase 3
 :::{card}
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://docs.google.com/forms/d/e/1FAIpQLSczRJTbK-AjMjXlIzYUmY7KqhGzSce3TmvyxGxXXLSviFnp3w/viewform?usp=sf_link
+:link: https://docs.google.com/forms/d/e/1FAIpQLSfUYfH5t1uMvZrh_uVn0Wa1gXNkE2-Hfo-mFcnDR3lrXmvrgw/viewform?usp=sharing
 **💬 Quiz 3**
 ^^^
 ```{image} https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Google_Forms_logo_%282014-2020%29.svg/1489px-Google_Forms_logo_%282014-2020%29.svg.png
@@ -30,5 +30,5 @@ Evaluemos lo aprendido en la Clase 3
 
 Quiz 3: Clase 4
 +++
-[Click para ir al Quiz](https://docs.google.com/forms/d/e/1FAIpQLSczRJTbK-AjMjXlIzYUmY7KqhGzSce3TmvyxGxXXLSviFnp3w/viewform?usp=sf_link) {fas}`arrow-right`
+[Click para ir al Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfUYfH5t1uMvZrh_uVn0Wa1gXNkE2-Hfo-mFcnDR3lrXmvrgw/viewform?usp=sharing) {fas}`arrow-right`
 :::
