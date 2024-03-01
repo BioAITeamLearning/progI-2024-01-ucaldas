@@ -63,7 +63,7 @@ Tanto la pista como las baldosas son cuadradas.
 Una persona decide abordar un autobús que cobra el pasaje dependiendo de cuantos pasajeros se bajan y abordan. La formula para determinar el costo del pasaje es:
 
 $$
-c = (\#\hspace{3pt}pasajeros\hspace{3pt}que\hspace{3pt}bajaron - \#\hspace{3pt}de\hspace{3pt}pasajeros\hspace{3pt}que\hspace{3pt}hay\hspace{3pt}en\hspace{3pt}el\hspace{3pt}bus) \cdot 4.5
+c = |\#\hspace{3pt}pasajeros\hspace{3pt}que\hspace{3pt}bajaron - \#\hspace{3pt}de\hspace{3pt}pasajeros\hspace{3pt}que\hspace{3pt}hay\hspace{3pt}en\hspace{3pt}el\hspace{3pt}bus| \cdot 4.5
 $$
 
 *Nota. El # de pasajeros que hay en el bus, se refiere al finalizar el recorrido, no al inicio.*
