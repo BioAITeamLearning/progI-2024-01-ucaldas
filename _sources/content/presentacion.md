@@ -71,7 +71,7 @@ Plan de estudios Ingeniería de Sistemas y Computación
 
 ## Propuesta de Evaluación
 
-Porcentajes de Pariciales, Quices y Talleres
+Porcentajes de Parciales, Quices y Talleres
 
 <div class="admonition tip dropdown" style="background: lightgreen; padding: 10px">
     <p class="title">Click para ver Diapositivas</p>

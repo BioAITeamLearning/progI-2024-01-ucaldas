@@ -14,7 +14,7 @@ kernelspec:
 
 ## Tipos de operadores
 
-### Operadores Lógicos
+## Operadores Lógicos
 
 <div class="admonition tip dropdown" style="background: lightgreen; padding: 10px">
     <p class="title">Click para ver Diapositivas</p>
@@ -55,7 +55,7 @@ Puedes acceder a los notebook en la siguiente página (*Operadores en Java y Pyt
     <iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https://github.com/BioAITeamLearning/progI-2024-01-ucaldas/raw/main/content/resources/clase-3/Operadores_Unarios.pptx" frameborder="1" width="750" height="470" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-## Jerarquia de Operadores e Indentación
+## Jerarquía de Operadores e Indentación
 
 <div class="admonition tip dropdown" style="background: lightgreen; padding: 10px">
     <p class="title">Click para ver Diapositivas</p>
