@@ -60,7 +60,7 @@ Nota. Los 3 montos no necesariamente tienen que pertenecer a uno de los grupos s
 
 ::::
 
-## Ejemplos esctructura `else if`
+## Ejemplos Estructura `else if`
 
 <div class="admonition tip dropdown" style="background: lightgreen; padding: 10px">
     <p class="title">Click para ver Diapositivas</p>
@@ -106,7 +106,7 @@ Finalmente, el programa escribe por pantalla el precio del helado con el topping
     <iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https://github.com/BioAITeamLearning/progI-2024-01-ucaldas/raw/main/content/resources/clase-5/switch-case.pptx" frameborder="0" width="750" height="470" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-## Ejemplos estructura `switch case`
+## Ejemplos Estructura `switch case`
 
 <div class="admonition tip dropdown" style="background: lightgreen; padding: 10px">
     <p class="title">Click para ver Diapositivas</p>
