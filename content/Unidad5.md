@@ -25,7 +25,7 @@ kernelspec:
     <iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https://github.com/BioAITeamLearning/progI-2024-01-ucaldas/raw/main/content/resources/clase-5/condicionales.pptx" frameborder="0" width="750" height="470" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-## Ejemplos esctructura `if`
+## Ejemplos Estructura `if`
 
 <div class="admonition tip dropdown" style="background: lightgreen; padding: 10px">
     <p class="title">Click para ver Diapositivas</p>
@@ -33,7 +33,7 @@ kernelspec:
     <iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https://github.com/BioAITeamLearning/progI-2024-01-ucaldas/raw/main/content/resources/clase-5/ejemplos-if.pptx" frameborder="0" width="750" height="470" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-## Ejemplos esctructura `else`
+## Ejemplos Estructura `else`
 
 <div class="admonition tip dropdown" style="background: lightgreen; padding: 10px">
     <p class="title">Click para ver Diapositivas</p>
