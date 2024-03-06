@@ -31,3 +31,17 @@ Foro con información sobre la lectura de variables de tipo `int`, `double` y `S
 
 [Enlace al sitio web](https://stackoverflow.com/questions/32948425/how-to-read-int-double-and-sentence-of-string-using-same-scanner-variable)
 :::
+
+## Practica para el examen
+
+:::{card} 🌐 Examen Vol 1 para practicar
+
+[Enlace al sitio web](https://drive.google.com/file/d/1WcSfhKWZRA-DZHL9-aM_ZHImnNRvVOOe/view?usp=sharing)
+:::
+
+
+:::{card} 🌐 Examen Vol 2 para practicar
+
+[Enlace al sitio web](https://drive.google.com/file/d/1ZNrdLWPdOBYbKQzkxlvF1krZ8PaWO4C5/view?usp=sharing)
+:::
+
