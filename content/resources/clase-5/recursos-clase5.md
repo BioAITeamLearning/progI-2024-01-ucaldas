@@ -45,3 +45,7 @@ Foro con información sobre la lectura de variables de tipo `int`, `double` y `S
 [Enlace al sitio web](https://drive.google.com/file/d/1ZNrdLWPdOBYbKQzkxlvF1krZ8PaWO4C5/view?usp=sharing)
 :::
 
+:::{card} 🌐 Examen Vol 3 para practicar
+
+[Enlace al sitio web](https://drive.google.com/file/d/1UhY53GUWHZjIJQzLVVwA8psU6WHyshC7/view?usp=sharing)
+:::
