@@ -21,7 +21,7 @@ Evaluemos lo aprendido en la Clase 8
 :::{card}
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://docs.google.com/forms/d/e/1FAIpQLSdxVXXBV-e9GWKir4KEaItlgOdAM6Z9JAFyQ37wvXSNkY7QHg/viewform?usp=sf_link
+:link: https://docs.google.com/forms/d/e/1FAIpQLSd8icmkSiSq8yXH5QUn_9fInlL-EHYarTYkSyv3Ccvt_YYY4w/viewform?usp=sf_link
 **💬 Quiz 7**
 ^^^
 ```{image} https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Google_Forms_logo_%282014-2020%29.svg/1489px-Google_Forms_logo_%282014-2020%29.svg.png
@@ -30,5 +30,5 @@ Evaluemos lo aprendido en la Clase 8
 
 Quiz 7: Clase 8
 +++
-[Click para ir al Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdxVXXBV-e9GWKir4KEaItlgOdAM6Z9JAFyQ37wvXSNkY7QHg/viewform?usp=sf_link) {fas}`arrow-right`
+[Click para ir al Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd8icmkSiSq8yXH5QUn_9fInlL-EHYarTYkSyv3Ccvt_YYY4w/viewform?usp=sf_link) {fas}`arrow-right`
 :::
