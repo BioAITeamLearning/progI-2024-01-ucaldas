@@ -73,16 +73,19 @@ Consejos para mejorar programando:
 - Genera retos para ti y cuestionate, cuando eres programador la confianza es vital, pero también es importante cuestionarse ¿le faltarán validaciones a mi programa? ¿sigue el marco de desarrollo? 
 - No es copiar cuando entiendes cómo funciona y lo puedes adaptar a tus necesidades, pero ten cuidado con el robo de propiedad intelectual, ya que si no mencionas a los autores es plagio.
 
-
 :::
 
-:::{grid-item}
-:columns: 3
-<img src="https://github.com/BioAITeamLearning/progI-2024-01-ucaldas/raw/main/content/imgs/machine-learning.png" width="80" />
+
+:::{card} 🌐 Pagina Web!
+
+¡Hola! A veces a estas alturas, al programar es complejo entender que sucede internamente en nuestro programa,
+por ello, aquí tienen una herramienta para visualizar el comportamiento del codigo que hagan, esto ayudará a entender mejor las pruebas de escritorio.
+
+[Enlace al sitio web](https://pythontutor.com/)
 :::
 
-::::
 
+<img src="https://github.com/BioAITeamLearning/progI-2024-01-ucaldas/raw/main/content/imgs/pythontutor.jpg" width="750"/>
 
 
 :::{note}
@@ -94,4 +97,4 @@ Puedes acceder a los notebooks en las siguiente páginas (*Ciclo Repetitivo `for
 :::{warning} La presentación completa es temporal
 :::
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQDtoWxMUD0k30KuSDBBG7xjt4xV1LG7hQcqS9VksaugUEtwqSa-8KltkpvGr6Znw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="790" height="490" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZjQHrK3p_85sDX9G7YWWSBUMtIZsiJO9Xf9Qb8Tb_G5XwjWFxR3iH7BRHgt_BVw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="790" height="490" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

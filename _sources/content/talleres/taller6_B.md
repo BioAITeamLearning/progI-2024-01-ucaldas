@@ -10,7 +10,7 @@ kernelspec:
   name: python3
 ---
 
-# 📄 Taller 6 B
+# 📄 Taller 6 A
 
 ## Ciclo For
 Programación I
@@ -24,20 +24,20 @@ Los notebooks de Colaboratory (tanto Java como Python) deben tener su respectivo
 :::
 
 ### Ejercicio 1
-Construya un algoritmo que reciba como entrada un cierto valor $n$, y genere como salida $n$ veces la frase `Las 6 lukas del bus se fueron en empanadas`.
+Construya un algoritmo que reciba como entrada un cierto valor $n$, y genere como salida n veces la frase `Las 6 lukas del bus se fueron en empanadas`.
 
 - Debe mostrar $n$ salidas
 - Debe mostrar $n$ veces la frase en una única salida
-- Debe utilizar `break` si $n=2$
+- Debe utilizar `break` si $n=3$
 
 ### Ejercicio 2
-Hacer un script que imprima los $20$ primeros números primos y los $20$ impares, sus cuadrados y calcular la multiplicación de los números pares e impares impresos.
+Hacer un script que imprima los $15$ primeros números pares y sus cuadrados. Hacer otro script que imprima los $10$ números impares y sus cuadrados.
 
 ### Ejercicio 3
-Realizar un script que pida $n$ cantidad de números random e imprima el número mayor y el número menor.
+Realizar un script que pida $n$ cantidad de números random e imprima los múltiplos de $2$ y $5$.
 
 ### Ejercicio 4
-Escribe un script que pida al usuario una cadena de caracteres y que imprima la misma cadena, pero sustituyendo las vocales por guiones.
+Escribe un script que pida al usuario una cadena de caracteres y que imprima la misma cadena, pero sustituyendo las vocales por asteriscos.
 
 ### Ejercicio 5
 Escribir un script que lea un entero y un carácter. La salida debe ser un triángulo dibujado con el carácter dado y de anchura máxima dada por el entero leído. 
@@ -61,12 +61,11 @@ Realizar un script que solicite al usuario una cadena, en la cual busca y escrib
 La sucesión de Fibonacci es la siguiente: $1, 1, 2, 3, 5, 8, 13, 21, 34, ...$
 Es decir, $f_1=1$, $f_2=1$, y cada uno de los siguientes términos de la sucesión se calculan sumando los dos anteriores: $f_i=f_{i−1} + f_{i−2}$. Escribe un programa que genera dicha sucesión, presentando en pantalla cada uno de los términos. El programa terminará después de presentar un término mayor que un cierto límite ($10.000$, por ejemplo).
 
-
 ### Ejercicio 9
 Realiza un programa que solicite una línea de texto y calcule el número de palabras presentes en ella (separadas mediante espacios).
 
 ### Ejercicio 10
-Hacer un programa que calcule la moda de una cantidad de números aleatorios si no hay moda que genere $3$ más, si la hay que muestre por teclado el siguiente mensaje: `Debe haber otra forma de almacenar datos en vez de usar 50 variables`.
+Hacer un programa que calcule la media de una cantidad de números aleatorios si la medía es menor a $10$ que genere $3$ más si es igual o mayor que muestre por teclado el siguiente mensaje: `Debe haber otra forma de almacenar variables que usando 50 variables`.
 
 ### Ejercicio 11
 Solicitar al usuario que ingrese una frase y luego imprimir un listado de las vocales que aparecen en esa frase (sin repetirlas).
