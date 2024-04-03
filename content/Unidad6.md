@@ -84,10 +84,8 @@ por ello, aquí tienen una herramienta para visualizar el comportamiento del cod
 [Enlace al sitio web](https://pythontutor.com/)
 :::
 
-:::{grid-item}
-:columns: 3
-<img src="https://github.com/BioAITeamLearning/progI-2024-01-ucaldas/raw/main/content/imgs/pythontutor.jpg" width="1080"/>
-:::
+
+<img src="https://github.com/BioAITeamLearning/progI-2024-01-ucaldas/raw/main/content/imgs/pythontutor.jpg" width="750"/>
 
 
 :::{note}
