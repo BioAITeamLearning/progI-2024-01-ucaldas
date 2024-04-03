@@ -73,7 +73,15 @@ Consejos para mejorar programando:
 - Genera retos para ti y cuestionate, cuando eres programador la confianza es vital, pero también es importante cuestionarse ¿le faltarán validaciones a mi programa? ¿sigue el marco de desarrollo? 
 - No es copiar cuando entiendes cómo funciona y lo puedes adaptar a tus necesidades, pero ten cuidado con el robo de propiedad intelectual, ya que si no mencionas a los autores es plagio.
 
+:::
 
+
+:::{card} 🌐 Pagina Web!
+
+¡Hola! A veces a estas alturas, al programar es complejo entender que sucede internamente en nuestro programa,
+por ello, aquí tienen una herramienta para visualizar el comportamiento del codigo que hagan, esto ayudará a entender mejor las pruebas de escritorio.
+
+[Enlace al sitio web](https://pythontutor.com/)
 :::
 
 :::{grid-item}
