@@ -86,6 +86,13 @@ por ello, aquí tienen una herramienta para visualizar el comportamiento del cod
 
 :::{grid-item}
 :columns: 3
+<img src="https://github.com/BioAITeamLearning/progI-2024-01-ucaldas/raw/main/content/imgs/pythontutor.png" width="790" />
+:::
+
+::::
+
+:::{grid-item}
+:columns: 3
 <img src="https://github.com/BioAITeamLearning/progI-2024-01-ucaldas/raw/main/content/imgs/machine-learning.png" width="80" />
 :::
 
