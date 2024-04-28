@@ -12,7 +12,7 @@ kernelspec:
 
 # 📄 Taller 7
 
-## Ciclo For
+## Ciclos while y do-while
 Programación I
 
 Reinel Tabares Soto

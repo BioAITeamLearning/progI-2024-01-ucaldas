@@ -51,3 +51,10 @@ parts:
     - file: content/resources/clase-7/recursos-clase7
     - file: content/talleres/taller7
     - file: content/quices/quiz6
+  - file: content/Unidad8
+    sections:
+    - file: content/notebooks/Clase8-Java
+    - file: content/notebooks/Clase8-Python
+    - file: content/resources/clase-8/recursos-clase8
+    - file: content/talleres/taller8
+    - file: content/quices/quiz7
