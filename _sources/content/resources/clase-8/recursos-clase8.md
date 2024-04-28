@@ -43,3 +43,9 @@ Pagina web donde se explica detalladamente el funcionamiento y uso de la palabra
 
 [Enlace al sitio web](https://refactorizando.com/directiva-static-java/)
 :::
+
+:::{card} 🌐 Ejemplos de Funciones en varios lenguajes
+Pagina web en donde se muestran varios ejemplos de funciones en diferentes lenguajes de programación.
+
+[Enlace al sitio web](https://www.geeksforgeeks.org/functions-programming/)
+:::
