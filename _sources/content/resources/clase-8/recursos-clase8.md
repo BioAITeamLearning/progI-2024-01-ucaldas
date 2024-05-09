@@ -49,3 +49,21 @@ Pagina web en donde se muestran varios ejemplos de funciones en diferentes lengu
 
 [Enlace al sitio web](https://www.geeksforgeeks.org/functions-programming/)
 :::
+
+## Practica para el examen
+
+:::{card} 🌐 Examen Vol 1 para practicar
+
+[Enlace al sitio web](https://drive.google.com/file/d/1DhH5u5g0viH4yHx0wBqr6uNkczGiCdS9/view?usp=sharing)
+:::
+
+
+:::{card} 🌐 Examen Vol 2 para practicar
+
+[Enlace al sitio web](https://drive.google.com/file/d/19ZvLtH7ZOLYWxQkjoO8KDO2hoB7RI3WO/view?usp=sharing)
+:::
+
+:::{card} 🌐 Examen Vol 3 para practicar
+
+[Enlace al sitio web](https://drive.google.com/file/d/1bifHUyEl7v0Pdirevqgo0PFxogzgVuke/view?usp=sharing)
+:::
